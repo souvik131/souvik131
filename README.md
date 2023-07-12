@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @souvik131
-- 👀 I’m interested in Algorithmic Trading
-- 🌱 I’m currently learning Advanced Quant Trading Techniques
-- 💞️ I’m looking to collaborate on building Dynamic Trading Setups 
-- 📫 How to reach me. Join me here https://t.me/TradeWithSouvikNow
+- 👀 I’m interested in building Performant Scalable Systems
+- 🌱 Co-founder @ Jubi.ai https://www.jubi.ai/
+- 📫 How to reach me. Email : souvik131@gmail.com
 
 <!---
 souvik131/souvik131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
