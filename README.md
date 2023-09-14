@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @souvik131
 - 👀 I’m interested in building Performant Scalable Systems
-- 🌱 Co-founder @ Jubi.ai https://www.jubi.ai/
 - 📫 Email : souvik131@gmail.com
 
 <!---
