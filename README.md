@@ -57,10 +57,18 @@ In parallel, I design and maintain trading infrastructure for personal use — f
 
 ## 🚀 Projects (Personal)
 
-- 🧠 **OMS** for multi-account execution with only Redis-based communication and Clickhouse-based analytics | [🔗 Trading Algo Infra](https://feed.tradingalgo.in)
+- 🧠 **OMS** for multi-account execution with only Redis-based communication and Clickhouse-based analytics | [🔗 Trading Algo](https://tradingalgo.in) 
 - 🧩 **Chrome extension** for Zerodha to visualize margin, PNL, and more | [🔗 Chrome Extension](https://chromewebstore.google.com/detail/trading-algo/kcdieedecefcnaioggjebnpifmbnfnop)
-- 📊 **Signal infra** using ClickHouse to query VRP, skew, momentum indicators | [🔗 Trading Algo Feed](https://feed.tradingalgo.in)
+- 📊 **Signal infra** using ClickHouse to query VRP, skew, momentum indicators | [🔗 Trading Algo](https://tradingalgo.in)
 - 🧮 **Risk allocator** models and Monte Carlo simulators for option strategies | [🔗 Trading Algo](https://tradingalgo.in)
+
+---
+
+## 📣 Community & Sharing
+
+- 🎙️ **Podcast**: Shared thoughts on algo trading, quant research, and risk on [YouTube](https://www.youtube.com/watch?v=IRePtbh2MJs)  
+- 🐦 **Twitter/X**: Share ideas, tools, and market analysis at [@Souvik131](https://x.com/Souvik131)  
+- 🤝 **Community**: Learn and collaborate with other engineers and traders  
 
 ---
 
