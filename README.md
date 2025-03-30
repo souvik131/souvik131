@@ -1,7 +1,7 @@
 # Souvik Das
 
 **🧑‍💻 Tech Lead | ⚙️ System Designer | 📊 Trader**  
-📍 Mumbai, India · 📧 souvik131@gmail.com · [🔗 LinkedIn](https://www.linkedin.com/in/souvik131) · [🐦 Twitter](https://x.com/Souvik131)
+📍 Mumbai, India · 📧 souvik131@gmail.com · [🔗 LinkedIn](https://www.linkedin.com/in/souvik131) · [🐦 Twitter/X](https://x.com/Souvik131)
 
 ---
 
