@@ -59,8 +59,8 @@ I actively share learnings, code, and real-time market insights on [Twitter/X](h
 
 ## 🚀 Projects (Personal)
 
-- 🧠 **OMS** for multi-account execution with only Redis-based communication and Clickhouse-based analytics | [🔗 Trading Algo](https://tradingalgo.in) 
 - 🧩 **Chrome extension** for Zerodha to visualize margin, PNL, and more | [🔗 Chrome Extension](https://chromewebstore.google.com/detail/trading-algo/kcdieedecefcnaioggjebnpifmbnfnop)
+- 🧠 **OMS** for multi-account execution with only Redis-based communication and Clickhouse-based analytics | [🔗 Trading Algo](https://tradingalgo.in) 
 - 📊 **Signal infra** using ClickHouse to query VRP, skew, momentum indicators | [🔗 Trading Algo](https://tradingalgo.in)
 - 🧮 **Risk allocator** models and Monte Carlo simulators for option strategies | [🔗 Trading Algo](https://tradingalgo.in)
 
