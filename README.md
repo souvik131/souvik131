@@ -79,13 +79,6 @@ I actively share learnings, code, and real-time market insights on [Twitter/X](h
 - 🎓 **PGDBS**, Manipal University
 - 🎓 **B.E.**, Visvesvaraya Technological University
 
----
-
-## 🗒️ Notes
-
-- I build things that I use myself
-- I prefer reliability over novelty
-- Most of my trading work is for personal use, not commercial
 
 
 <!---
