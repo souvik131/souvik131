@@ -41,7 +41,7 @@ I actively share learnings, code, and real-time market insights on [Twitter/X](h
 
 - Managing a team and working on product scaling and system architecture
 
-### 🔹 Founder / CTO
+### 🔹 Co-Founder / CTO
 
 **Jubi.ai · 2016–2021**
 
