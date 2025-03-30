@@ -72,13 +72,6 @@ I actively share learnings, code, and real-time market insights on [Twitter/X](h
 - 🐦 **Twitter/X**: Share ideas, tools, and market analysis at [@Souvik131](https://x.com/Souvik131)  
 - 🤝 **Community**: Learn and collaborate with other engineers and traders  
 
----
-
-## 🎓 Education
-
-- 🎓 **PGDBS**, Manipal University
-- 🎓 **B.E.**, Visvesvaraya Technological University
-
 
 
 <!---
