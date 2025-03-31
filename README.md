@@ -12,16 +12,14 @@ Currently working as a **Tech Lead** (joined post-acquisition of my startup), wh
 
 In parallel, I design and maintain trading infrastructure for personal use — focusing on stock/index options, execution logic, and data-driven strategy testing.
 
-I actively share learnings, code, and real-time market insights on [Twitter/X](https://x.com/Souvik131) to engage with the trading and tech community.
-
 ---
 
-## 🚀 Projects (Personal)
+## 🚀 Side Projects
 
-- 🧩 **Chrome extension** for Zerodha to visualize margin, PNL, and more | [🔗 Chrome Extension](https://chromewebstore.google.com/detail/trading-algo/kcdieedecefcnaioggjebnpifmbnfnop)
-- 🧠 **OMS** for multi-account execution with only Redis-based communication and Clickhouse-based analytics | [🔗 Trading Algo](https://tradingalgo.in) 
-- 📊 **Signal infra** using ClickHouse to query VRP, skew, momentum indicators | [🔗 Trading Algo](https://tradingalgo.in)
-- 🧮 **Risk allocator** models and Monte Carlo simulators for option strategies | [🔗 Trading Algo](https://tradingalgo.in)
+- 🧩 **Chrome extension** for Zerodha to visualize margin, PNL, and more | [🔗 Chrome Extension ](https://chromewebstore.google.com/detail/trading-algo/kcdieedecefcnaioggjebnpifmbnfnop)
+- 🧮 **Monte Carlo simulator** for option/equity strats  | [🔗 Trading Algo](https://tradingalgo.in](https://tradingalgo.blr1.cdn.digitaloceanspaces.com/sim.html)
+- 📊 **Vol weighted Trend Following** indicator in Tradingview | [🔗 Tradingview ](https://tradingalgo.in](https://www.tradingview.com/script/yJ3Zo3xd-Vol-weighted-Trend-Follower/)
+- 🧠 **Vol Surface visualizer** for Nifty | [🔗 Trading Algo ](https://tradingalgo.blr1.cdn.digitaloceanspaces.com/vol_surface/NIFTY.html)
 
 ---
 
@@ -29,8 +27,6 @@ I actively share learnings, code, and real-time market insights on [Twitter/X](h
 
 - 🎙️ **Podcast**: Shared thoughts on algo trading, quant research, and risk on [YouTube](https://www.youtube.com/watch?v=IRePtbh2MJs)  
 - 🐦 **Twitter/X**: Share ideas, tools, and market analysis at [@Souvik131](https://x.com/Souvik131)  
-- 🤝 **Community**: Learn and collaborate with other engineers and traders  
-
 
 
 <!---
