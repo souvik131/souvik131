@@ -16,47 +16,6 @@ I actively share learnings, code, and real-time market insights on [Twitter/X](h
 
 ---
 
-## 🔧 Current Areas of Work
-
-- 🧑‍🏫 **Engineering Management**: Leading a product-focused team
-- 🛠️ **System Design**: Building reliable trading infra using Go, Python, Redis, Docker, and ClickHouse
-- 📈 **Trading Tools**: Personal projects around options payoff, portfolio allocators, and automated trade execution
-- 🗃️ **Data Pipelines**: Tools to collect, store, and query market data efficiently
-
----
-
-## 🧰 Tech Stack
-
-- 🛠️ **Languages**: Go, Python, JavaScript (Node.js)
-- 🧱 **Data & Infra**: Redis, ClickHouse, MongoDB, Docker, Linux
-- 📡 **Monitoring**: Grafana
-
----
-
-## 🏢 Work Experience
-
-### 🔹 Tech Lead
-
-**Current Workplace · 2021–Present**
-
-- Managing a team and working on product scaling and system architecture
-
-### 🔹 Co-Founder / CTO
-
-**Jubi.ai · 2016–2021**
-
-- Built conversational AI tools for Indian enterprises
-- Led a 20-member engineering team
-- Scaled backend to handle NLP workflows and analytics
-
-### 🔹 Banking
-
-**Kotak Mahindra & Axis Bank · 2013–2016**
-
-- Worked on depository desk and backend systems
-
----
-
 ## 🚀 Projects (Personal)
 
 - 🧩 **Chrome extension** for Zerodha to visualize margin, PNL, and more | [🔗 Chrome Extension](https://chromewebstore.google.com/detail/trading-algo/kcdieedecefcnaioggjebnpifmbnfnop)
