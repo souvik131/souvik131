@@ -1,16 +1,7 @@
 # Souvik Das
 
-**🧑‍💻 Tech Lead | ⚙️ System Designer | 📊 Trader**  
+**🧑‍💻 Tech | ⚙️ Systems | 📊 Trades**  
 📍 Mumbai/Guwahati, India · 📧 souvik131@gmail.com · [🔗 LinkedIn](https://www.linkedin.com/in/souvik131) · [🐦 Twitter/X](https://x.com/Souvik131)
-
----
-
-## 🧭 About
-
-Engineer with 10+ years of experience in building and maintaining systems.  
-Currently working as a **Tech Lead** (joined post-acquisition of my startup), where I manage a team and contribute to platform design and scale.
-
-In parallel, I design and maintain trading infrastructure for personal use — focusing on stock/index options, execution logic, and data-driven strategy testing.
 
 ---
 
