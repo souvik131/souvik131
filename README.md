@@ -8,9 +8,8 @@
 ## 🚀 Side Projects
 
 - 🧩 **Chrome extension** for Zerodha to visualize margin, PNL, and more | [🔗 Chrome Extension ](https://chromewebstore.google.com/detail/trading-algo/kcdieedecefcnaioggjebnpifmbnfnop)
-- 🧮 **Monte Carlo simulator** for option/equity strats  | [🔗 Trading Algo]( https://tradingalgo.in](https://tradingalgo.blr1.cdn.digitaloceanspaces.com/sim.html )
-- 📊 **Vol weighted Trend Following** indicator in Tradingview | [🔗 Tradingview ]( https://tradingalgo.in](https://www.tradingview.com/script/yJ3Zo3xd-Vol-weighted-Trend-Follower/ )
-- 🧠 **Vol Surface visualizer** for Nifty | [🔗 Trading Algo ](https://tradingalgo.blr1.cdn.digitaloceanspaces.com/vol_surface/NIFTY.html)
+- 🧮 **Monte Carlo simulator** for option/equity strats  | [🔗 Trading Algo]( https://tradingalgo.in](https://tradingalgo.in)
+- 📊 **Vol weighted Trend Following** indicator in Tradingview | [🔗 Tradingview ]( https://tradingalgo.in](https://tradingalgo.in)
 
 ---
 
