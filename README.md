@@ -15,7 +15,7 @@
 
 ## 📣 Community & Sharing
 
-- 🎙️ **Podcast**: Shared thoughts on algo trading, quant research, and risk on [YouTube](https://www.youtube.com/watch?v=IRePtbh2MJs)  
+- 🎙️ **Podcast**: Shared thoughts on algo trading, quant research, and risk on [YouTube](https://www.youtube.com/watch?v=IRePtbh2MJs&list=PLvbNByY91qryY6YDTIZ0DXuofomExUlMc)  
 - 🐦 **Twitter/X**: Share ideas, tools, and market analysis at [@Souvik131](https://x.com/Souvik131)  
 
 
